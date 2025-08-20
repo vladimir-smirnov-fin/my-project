@@ -11,3 +11,7 @@ let num1 = 1;
 num++;
 console.log(num1);
 
+let num2 = 1;
+num++;
+console.log(num2);
+
